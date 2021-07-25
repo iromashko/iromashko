@@ -1,4 +1,4 @@
-#### [My 100 Projects Challenge](https://vanilla-projects.vercel.app/)⚡ 
+#### [My Projects Challenge](https://vanilla-projects.vercel.app/)⚡ 
 
 <!--
 **iromashko/iromashko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
